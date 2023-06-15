@@ -262,7 +262,7 @@ $consulta = "SELECT *
           <h4>Información de contacto</h4>
           <ul>
             <li><i class="fa fa-phone"></i> +1 123 456 7890</li>
-            <li><i class="fa fa-envelope"></i> info@example.com</li>
+            <li><i class="fa fa-envelope"></i> david.fonseca12p@gmail.com</li>
             <li><i class="fa fa-map-marker"></i> 123 Calle Principal, Ciudad, País</li>
           </ul>
         </div>

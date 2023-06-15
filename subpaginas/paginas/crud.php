@@ -153,8 +153,8 @@ if (isset($_SESSION['rol'])) {
         </td>
         <td class="px-4 py-3">
           <div class="flex items-center space-x-4 text-sm">
-            <a class="badge bg-warning text-dark" href="crud_editar.php?id=<?php echo $row["id_freelancer"];?>">EDITAR</a>-
-            <a class="badge bg-danger text-dark" href="crud_eliminar.php?id=<?php echo $row["id_freelancer"];?>" class="eliminateTable">ELIMINAR</a>
+            <a class="badge bg-warning text-dark" href="crud_editar.php">EDITAR</a>-
+            <a class="badge bg-danger text-dark" href="crud_eliminar.php" class="eliminateTable">ELIMINAR</a>
           </div>
         </td>
       </tr>
